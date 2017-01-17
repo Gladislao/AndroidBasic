@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lesson2</string>
+    <string name="activityB">Activity B</string>
+    <string name="go_to_c">Go to C</string>
+    <string name="go_to_d">Go to D</string>
+    <string name="go_to_e">Go to E</string>
+    <string name="text_activity_b">This is Activity B</string>
+    <string name="activityC">Activity C</string>
+    <string name="activityD">Activity D</string>
+    <string name="activityE">Activity E</string>
+</resources>
